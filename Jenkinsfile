@@ -2,7 +2,7 @@ pipeline {
     agent any
     
     environment {
-        REPO_URL = 'https://github.com/Ahmad-A-AlTamim/linuxPRJ'
+        REPO_URL = 'https://github.com/Ahmad-A-AlTamim/LinuxProject'
         DOCKER_COMPOSE_FILE = 'docker-compose.yml'
     }
     
